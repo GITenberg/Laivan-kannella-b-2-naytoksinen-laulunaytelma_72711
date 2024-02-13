@@ -1,0 +1,28 @@
+_repo: Laivan-kannella-b-2-naytoksinen-laulunaytelma_72711
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Jääskeläinen, Pasi
+    alias: Jaaskelainen, Pasi
+    gutenberg_agent_id: '56781'
+    url: http://www.gutenberg.org/2009/agents/56781
+description: ''
+gutenberg_issued: '2024-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72711'
+language: fi
+pgterms:marc905: 20230507091031jskelinen
+pgterms:marc906: '1950'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: '  $aPorvoo/Helsinki :$bWSOY/Kust.Oy Kirja, $c1950.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Finnish drama'
+- !lcc 'PH'
+- GITenberg
+title: 'Laivan kannella : $b 2-näytöksinen laulunäytelmä'
+url: http://www.gutenberg.org/ebooks/72711
